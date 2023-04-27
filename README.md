@@ -1,3 +1,4 @@
+---BEGIN SIGNATURE---5F1D27F16029732A725FC5E5570095B5926C18CFDE39358893B2631CAF6A58F917D1D695E39C74268C63310C642555F6CEE0C8445ABBB0405DBC633089715F0F---END SIGNATURE---
 <h1 align="center">Hi 👋, I'm jb0gie</h1>  
 <h3 align="center">I am a media specialist with a passion for using webXR and artificial intelligence in my art.</h3>  
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
@@ -40,3 +41,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jb0gie&show_icons=true&locale=en&layout=compact" alt="jb0gie" /></p>  
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jb0gie&show_icons=true&locale=en" alt="jb0gie" /></p>
+
+
