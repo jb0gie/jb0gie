@@ -21,9 +21,9 @@
   
 - 📝 I regularly write articles on [https://lenster.xyz/u/szabo0genie](https://lenster.xyz/u/szabo0genie)  
   
-- 💬 Ask me about **blender, 3d, time, life**  
+- 💬 Ask me about **godot, blender, 3d, webXR, time, life**  
   
-- 📫 How to reach me **rub the 🪔 (yexzu.eth@ethereum.email)**  
+- 📫 How to reach me **rub the 🪔 (b0gie.eth@ethermail.io)**  
   
 - 📄 Know about my experiences [https://professional-folio.vercel.app/](https://professional-folio.vercel.app/)  
   
