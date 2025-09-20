@@ -15,7 +15,7 @@
   
 - 👯 I’m also contributing to [Metagame](https://metagame.wtf)  
   
-- 🤝 I’m looking for help with [yexzu](https://yexzu.eth.limo/)  
+- 🤝 I’m looking for help with [yexzu](https://github.com/jb0gie/yexzu)
   
 - 👨‍💻 All of my projects are available at [https://irb0gie.vercel.app](https://irb0gie.vercel.app)  
   
