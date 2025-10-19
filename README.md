@@ -19,7 +19,7 @@
   
 - 👨‍💻 All of my projects are available at [https://irb0gie.vercel.app](https://irb0gie.vercel.app)  
   
-- 📝 I regularly write articles on [https://lenster.xyz/u/szabo0genie](https://lenster.xyz/u/szabo0genie)  
+- 📝 I regularly write articles on [https://lenster.xyz/u/szabo0genie](https://lenster.xyz/u/b0gie)  
   
 - 💬 Ask me about **godot, blender, 3d, webXR, time, life**  
   
